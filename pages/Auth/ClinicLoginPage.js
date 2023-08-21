@@ -1,7 +1,8 @@
 import { View } from "react-native";
+import ClinicLoginComponent from "../../components/ClinicLoginComponent";
 
 function ClinicLoginPage() {
-  return <View></View>;
+  return <ClinicLoginComponent/>;
 }
 
 export default ClinicLoginPage;
